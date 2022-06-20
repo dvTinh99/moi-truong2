@@ -1,0 +1,24 @@
+2022-06-18T17:20:33+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on string in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php:84
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/moi-truong/wordpress/wp-blog-header.php(19): require_once('/var/www/moi-tr...')
+#2 /var/www/moi-truong/wordpress/index.php(17): require('/var/www/moi-tr...')
+#3 {main}
+  thrown in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php on line 84
+
+2022-06-18T17:23:14+00:00 CRITICAL Uncaught Error: Call to a member function getShortDescription() on string in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php:117
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/moi-truong/wordpress/wp-blog-header.php(19): require_once('/var/www/moi-tr...')
+#2 /var/www/moi-truong/wordpress/index.php(17): require('/var/www/moi-tr...')
+#3 {main}
+  thrown in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php on line 117
+
+2022-06-18T17:27:00+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on string in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php:62
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-includes/template-loader.php(106): include()
+#1 /var/www/moi-truong/wordpress/wp-blog-header.php(19): require_once('/var/www/moi-tr...')
+#2 /var/www/moi-truong/wordpress/index.php(17): require('/var/www/moi-tr...')
+#3 {main}
+  thrown in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php on line 62
+

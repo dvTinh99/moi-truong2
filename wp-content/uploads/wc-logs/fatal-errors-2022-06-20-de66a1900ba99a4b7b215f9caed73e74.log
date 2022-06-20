@@ -1,0 +1,7 @@
+2022-06-20T16:28:50+00:00 CRITICAL Uncaught RuntimeException: Lỗi lưu hành động: Table 'moitruong.wp_actionscheduler_actions' doesn't exist in /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:86
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_DBStore->save_action(Object(ActionScheduler_Action))
+#1 /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store(Object(ActionScheduler_Action))
+#2 /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->single('wc-admin_import...', Array, 1655742535, 'wc-admin-data')
+#3 /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/includes/queue/class-wc-action-queue.php(44): as_schedule_single_action(1655 in /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 86
+

@@ -1,0 +1,22 @@
+2022-06-19T04:45:11+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Term::get_name() in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/woocommerce/archive-product.php:126
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/woocommerce/taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#2 /var/www/moi-truong/wordpress/wp-includes/template-loader.php(106): include('/var/www/moi-tr...')
+#3 /var/www/moi-truong/wordpress/wp-blog-header.php(19): require_once('/var/www/moi-tr...')
+#4 /var/www/moi-truong/wordpress/index.php(17): require('/var/www/moi-tr...')
+#5 {main}
+  thrown in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/woocommerce/archive-product.php on line 126
+
+2022-06-19T05:36:44+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Post::get_title() in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/template-parts/san-pham-lien-quan.php:33
+Stack trace:
+#0 /var/www/moi-truong/wordpress/wp-includes/template.php(772): require()
+#1 /var/www/moi-truong/wordpress/wp-includes/template.php(716): load_template('/var/www/moi-tr...', false, Array)
+#2 /var/www/moi-truong/wordpress/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/single-product.php(163): get_template_part('template-parts/...')
+#4 /var/www/moi-truong/wordpress/wp-includes/template-loader.php(106): include('/var/www/moi-tr...')
+#5 /var/www/moi-truong/wordpress/wp-blog-header.php(19): require_once('/var/www/moi-tr...')
+#6 /var/www/moi-truong/wordpress/index.php(17): require('/var/www/moi-tr...')
+#7 {main}
+  thrown in /var/www/moi-truong/wordpress/wp-content/themes/tinhdoan/template-parts/san-pham-lien-quan.php on line 33
+
