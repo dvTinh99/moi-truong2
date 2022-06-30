@@ -108,7 +108,7 @@ $product = wc_get_product(get_the_ID());
                             <section id="nav_menu-8" class="widget widget_nav_menu"><span class="widget-title">Bảo
                                     hộ lao động</span>
                                 <div class="menu-danh-muc-bao-ho-lao-dong-container">
-                                    <?php get_template_part('sidebar'); ?>
+                                    <?php get_template_part('sidebar', null, array('left' => "left")); ?>
                                 </div>
                             </section>
                             <section id="dpe_fp_widget-10" class="widget widget_dpe_fp_widget">

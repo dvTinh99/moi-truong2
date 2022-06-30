@@ -1531,6 +1531,10 @@ body.home .widget_nav_menu ul.menu ul.sub-menu {
   right: 0;
   left: 100%;
 }
+body.home .widget_nav_menu ul.menu ul.sub-menu.left {
+    left : -75%;
+    right: 100%;
+  }
 /* Text truncate */
 .text__truncate {
   overflow: hidden;

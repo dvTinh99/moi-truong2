@@ -141,10 +141,10 @@
                                 <p><span>Email :</span> Thuyhanh.ng@gmail.com</p>
                             </li>
                             <li class="col-md-12 col-sm-12 col-xs-12">
-                                <p><span>Điện thoại:</span> 0905 007 482</p>
+                                <p><span>Điện thoại:</span> 0905 274 461</p>
                             </li>
                             <li class="col-md-12 col-sm-12 col-xs-12">
-                                <p><span>Website :</span> http://Baoholaodongvatuvanmoitruongdn.com/</p>
+                                <p><span>Website :</span> https://baoholaodongvatuvanmoitruongdn.com</p>
                             </li>
                             <li class="col-md-12 col-sm-12 col-xs-12">
                                 <p><span>Hotline:</span> 0905 274 461 </p>

@@ -113,3 +113,7 @@ flex-shrink: 0;
 .block-product ul li {
   padding: 3px;
 }
+
+body.home .widget_nav_menu ul.menu ul.sub-menu.left {
+    right: 100% !important;
+}

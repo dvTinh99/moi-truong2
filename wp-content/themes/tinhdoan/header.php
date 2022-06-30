@@ -6,7 +6,7 @@
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- add icon link -->
-    <link rel = "icon" href ="<?php bloginfo('template_directory') ?>/html/images/logo-moitruong.jpg" 
+    <link rel = "icon" href ="<?php bloginfo('template_directory') ?>/html/images/logo.png" 
         type = "image/x-icon">
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
@@ -43,7 +43,7 @@
     <meta property="og:title" content="BẢO HỘ LAO ĐỘNG ĐÀ NẴNG - BẢO HỘ LAO ĐỘNG GIÁ SỈ" />
     <meta property="og:description" content="Công ty Bảo hộ lao động tại Đà Nẵng, cung cấp bảo hộ lao động giá sĩ, miễn phí vận chuyển nội thành các mặt hàng. Quần áo Bảo hộ lao động. Giày bảo hộ lao động. Mũ bảo hộ lao động. Áo phản quang. Găng tay bảo hộ. Găng tay chống hóa chất. Găng tay phủ sơn. Khẩu trang hoạt tính. Mặt nạ phòng độc. Nút tai chống ồn. Bình chữa cháy. Vòi chữa cháy. Cọc tiêu giao thông. Cọc phân làn inox." />
     <meta property="og:url" content="https://baoholaodongdanang.com/" />
-    <meta property="og:site_name" content="Công ty TNHH Thương mại và Kỹ thuật Hưng Phương" />
+    <meta property="og:site_name" content="Công ty TNHH Thương mại và Kỹ thuật Quý Hạnh" />
     <meta property="og:image" content="https://baoholaodongdanang.com/wp-content/uploads/2021/12/Why-Workers-Dont-Wear-Personal-Protective-Equipment-PPE-1-e1639208371268.jpg" />
     <meta property="og:image:secure_url" content="https://baoholaodongdanang.com/wp-content/uploads/2021/12/Why-Workers-Dont-Wear-Personal-Protective-Equipment-PPE-1-e1639208371268.jpg" />
     <meta property="og:image:width" content="550" />

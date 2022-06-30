@@ -569,7 +569,7 @@
                                 <p>Rất mong nhận được sự hợp tác!</p>
                                 <p>Trân trọng./.</p>
                                 <p>
-                                    <strong>CÔNG TY TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ HẠNH </strong>
+                                    <strong>CÔNG TY TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ HẠNH </strong>
                                 </p>
                             </div>
                         </div>

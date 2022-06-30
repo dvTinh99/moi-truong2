@@ -23,7 +23,7 @@
                         <div id="container">
                             <div class="td-pb-span12">
                                 <div class="td-category-description">
-                                    <p style="text-align: justify;">CÔNG TY TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ
+                                    <p style="text-align: justify;">CÔNG TY TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ
                                         HẠNH tư vấn
                                         thiết kế thi công nâng cấp vận hành bảo trì cải tạo hệ thống xử lý nước
                                         thải.</p>
@@ -32,7 +32,7 @@
                                     &nbsp;
                                     <p>
                                         <a title="công ty xử lý nước thải" href="http://moitruongdgp.com/he-thong-xu-ly-nuoc-thai/"><strong>CÔNG TY
-                                                TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ
+                                                TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ
                                                 HẠNH</strong></a> với đội ngũ kỹ sư môi
                                         trường hơn 5 năm kinh nghiệm trong việc tư vấn thiết kế
                                         <strong> hệ thống xử lý nước thải</strong> áp dụng nhiều <strong>công
@@ -47,11 +47,23 @@
                                             nhuộm...
                                         </em>
                                     </p>
-                                    &nbsp;
+                                    </br>
+
+
+                                    <h2 style="text-align: center;" id="ancho1" >
+                                        
+                                        <img alt="Quan trắc môi trường là gì? Quy định về quan trắc môi trường"
+                                            src="<?php bloginfo('template_directory')?>/html/images/4.jpg"
+                                            style="width: 50%; height: 30%;" />
+                                    </h2>
+
+                                    <p style="text-align: center;"><em>Mô hình xử lí nước thải (Ảnh minh họa)</em></p>
+                                            </br>
+
                                     <p>
                                         Ngoài thiết kế thi công các hệ thống <strong><em>xử lý nước
                                                 thải</em></strong>&nbsp;CÔNG TY
-                                        TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ
+                                        TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ
                                         HẠNH còn
                                         hướng
                                         dẫn bảo trì hệ thống xử lý nước thải miễn phí và tư vấn
@@ -59,17 +71,28 @@
                                         đại
                                         tiết kiệm chi phí tối đa.
                                     </p>
-                                    &nbsp;
-                                    <br />
                                     <h3>
                                         Để được tư vấn miễn phí về&nbsp;<a title="xử lý nước thải" href="http://moitruongdgp.com/he-thong-xu-ly-nuoc-thai/"><strong>xử
                                                 lý
-                                                nước thải</strong></a>&nbsp;theo công nghệ nào tốt nhất
+                                                nước thải</strong></a>&nbsp;theo công nghệ nào tốt nhất.
                                     </h3>
-                                    <br />
+                                    </br>
+
+                                    <h2 style="text-align: center;" id="ancho1" >
+                                        
+                                        <img alt="Quan trắc môi trường là gì? Quy định về quan trắc môi trường"
+                                            src="<?php bloginfo('template_directory')?>/html/images/5.gif"
+                                            style="width: 50%; height: 30%;" />
+
+                                       
+
+                                    </h2>
+
+                                    <p style="text-align: center;"><em>Công nghệ XLNT sinh hoạt tiêu biểu</em></p>
+                                    </br>
                                     <ul>
                                         <li><strong>Liên hệ ngay:</strong>CÔNG TY
-                                            TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ
+                                            TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ
                                             HẠNH</li>
                                         <li><strong>Hotline :</strong> 0905 007 482 – 0905 274 461</li>
                                         <li><strong>Email:</strong> baoholaodongvamoitruongqh.@gmail.com
@@ -82,7 +105,7 @@
                                         <em><strong>xử lý nước thải</strong></em>
                                     </span>
                                     của <strong>CÔNG TY
-                                        TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGỆ QUÝ
+                                        TNHH THƯƠNG MẠI VÀ KĨ THUẬT CÔNG NGHỆ QUÝ
                                         HẠNH</strong> mời các
                                     bạn
                                     đón xem.<br />

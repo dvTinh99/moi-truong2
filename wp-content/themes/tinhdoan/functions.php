@@ -4,7 +4,7 @@ function register_menu() {
 	register_nav_menu('header-menu',__( 'Header menu' ));
 	register_nav_menu('footer-menu',__( 'Footer menu' ));
 	register_nav_menu('sidebar-menu',__( 'SideBar menu' ));
-	register_nav_menu('category-menu',__( 'Category menu' ));
+	register_nav_menu('left-sidebar',__( 'Left Sidebar menu' ));
 	
 	if (function_exists('register_sidebar')){
 		register_sidebar(array(
